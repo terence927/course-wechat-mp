@@ -5,12 +5,17 @@ The project is about sending studying certification through smart contract. User
 
 ### frontend: 
 WeChat Miniprogram (小程序) using mpvue+mpvue-weui
+
 Web App using Vuejs
+
 Admin portal using ngadmin
+
 
 ### backend:
 NodeJS+ Express+router
+
 BookshelfJS - ORM query
+
 
 ### database:
 MySQL
